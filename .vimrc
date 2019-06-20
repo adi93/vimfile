@@ -1,1 +1,1 @@
-/home/aditya/.vimrc
+../../.vimrc
